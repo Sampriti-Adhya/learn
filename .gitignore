@@ -1,0 +1,9 @@
+.env
+v
+v/
+**/v/
+learn/v/
+.vscode/
+*.pyc
+__pycache__/
+db.sqlite3
